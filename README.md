@@ -1,3 +1,4 @@
+
 # BCG-FORAGE-Data-Science-Advanced-Analytics-Virtual-Experience-Program
 BCG Open-Access Data Science & amp; Advanced Analytics Virtual Experience Program by Forage
 
@@ -15,6 +16,8 @@ Formulate the hypothesis as a data science problem and lay out the major steps n
 TASK 2- Exploratory Data Analysis & Data Cleaning
 Clean the data – you might have to address missing values, duplicates, data type conversions, transformations, and multicolinearity, as well as outliers.
 Perform some exploratory data analysis. Look into the data types, data statistics, and identify any missing data or null values, and how often they appear in the data. Visualize specific parameters as well as variable distributions.
+
+![Data Science   Advanced Analytics](https://github.com/soham7998/BCG-FORAGE-Data-Science-Advanced-Analytics-Program/assets/112894790/8aaf9396-7cf3-452e-9ef7-7be38ed3d33c)
 
 TASK 3- Feature Engineering
 Think through what key drivers of churn could be for our client
